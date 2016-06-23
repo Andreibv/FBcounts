@@ -6,4 +6,5 @@ $decode = json_decode($json);
 
 echo $decode[0]->fan_count."<br>";
 echo $decode[0]->name;
+echo "<br>";
 ?>
